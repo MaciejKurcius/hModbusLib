@@ -3,7 +3,7 @@
 
 #include "hModbusLib_conf.h"
 
-extern hModbusDelay(uint32_t);
+extern void hModbusDelay(uint32_t);
 
 void TestFunc(void);
 
